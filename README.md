@@ -2,7 +2,6 @@
 
 A real-time hand gesture recognition application built with Flutter and TensorFlow Lite. This intelligent mobile app detects and classifies 10 different hand gestures with high accuracy using deep learning.
 
-![Analytics Dashboard](assets/upload.png)
 
 ## 📋 Overview
 
