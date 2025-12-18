@@ -282,11 +282,11 @@ This project serves as an excellent educational resource for:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👨‍💻 Author
-
-**Your Name / Development Team**
-- Institution: IT120 Course Project
-- Contact: alexamarieantoquia034@gmail.com
+### 🧑‍💻 Author 
+- Alexamarie J. Antoquia
+- BS Information Technology
+- Caraga State University – Caraga Campus
+- December 2025
 
 ## 🙏 Acknowledgements
 
@@ -302,16 +302,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **Feature Requests**: Suggest improvements through feedback channels
 - **Documentation**: Refer to inline code comments and this README
 
-### Contact Information
-- **Email**: alexamarieantoquia034@gmail.com
-- **GitHub**: https://github.com/alexamarieantoquia034-cpu/Antoquia_Hand_Gestures_Classification_FinalProject
-- **Project Lead**: Alexamarie J. Antoquia
-- **Program**: BS Information Technology
-- **Course**: IT120
-- **Institution**: Caraga State University – Caraga Campus
-- **Project Type**: Final Project
-- **Date**: December 2025
-
 ### Resources
 - [Flutter Documentation](https://flutter.dev/docs)
 - [TensorFlow Lite Guide](https://www.tensorflow.org/lite)
@@ -325,15 +315,6 @@ If this project has been useful to you:
 - ⭐ **Star this repository** to show your support
 - 🔗 **Share with others** who might benefit from gesture recognition
 - 📝 **Cite in your work** if used for research or educational purposes:
-
-```bibtex
-@software{hand_gestures_app_2025,
-  title={Hand Gestures Recognition App},
-  author={Alexamarie J. Antoquia},
-  year={2025},
-  url={https://github.com/alexamarieantoquia034-cpu/Antoquia_Hand_Gestures_Classification_FinalProject}
-}
-```
 
 - 💡 **Contribute** improvements, bug fixes, or new features
 - 📧 **Send feedback** to help us improve the project
